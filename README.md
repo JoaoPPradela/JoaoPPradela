@@ -1,16 +1,26 @@
-## Hi there 👋
+# Este sou eu 
+Sou o **João Pedro**, estudante de DS no SENAI-SP, casado com a Bia
+## Formação acadêmica 
 
-<!--
-**JoaoPPradela/JoaoPPradela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou me formando em Tecnologia em Informática pra Negócios 
 
-Here are some ideas to get you started:
+Posso escrever um pequeno trecho de código como 'git status' ou então trechos maiores como o abaixo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+cosnt constante = 0; //constante precisa ser inicializada
+```
+
+
+```python
+def ola_mundo() {
+  print ('olá mundo!')
+}
+```
+
+## Atividade 
+
+
+
+
+
+
